@@ -6,3 +6,6 @@ SEM_LABS Lisa Wilson
 ![LICENSE](https://img.shields.io/github/license/LisaW831/sem.svg?style=flat-square)](https://github.com/LisaW831/sem/blob/master/LICENSE)
 
 ![Releases](https://img.shields.io/github/release/LisaW831/sem/all.svg?style=flat-square)](https://github.com/LisaW831/sem/releases
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/LisaW831/SEM_LABS/workflows/mainyml/<branch>?style=flat-square)
